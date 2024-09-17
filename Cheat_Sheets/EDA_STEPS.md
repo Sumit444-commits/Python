@@ -1,12 +1,6 @@
 # Steps: Data Wrangling (EDA)
 
-1. Import  the necessary libray
-
-   | col1 | col2 | col3 |
-   | ---- | ---- | ---- |
-   |      |      |      |
-   |      |      |      |
-1. ries: `numpy` for numerical computations and `matplotlib.pyplot` for plotting.
+1. Import  the necessary libraries: `numpy` for numerical computations and `matplotlib.pyplot` for plotting.
 2. Import Dataset
 3. Explore your data
 
